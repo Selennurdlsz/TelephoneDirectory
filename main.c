@@ -2,10 +2,6 @@
 #include <stdlib.h>
 #include <locale.h>
 
-/*162802016 MINE YAMAN
-  162802046 SELENNUR DILSIZ
-  162802047 BEYZA NUR ÖZKARA*/
-
 typedef struct
 {
     char isim[100];
